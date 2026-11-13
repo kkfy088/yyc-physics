@@ -1,0 +1,6 @@
+.preview-build.py
+course.json
+timing.json
+sources/questions.json
+__pycache__/
+*.log
