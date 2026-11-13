@@ -6,5 +6,5 @@ __pycache__/
 *.log
 media/*.mp4
 # Published review media
-!media/01-explanatory-visual-v1-20261113-9482e797aa.mp4
+!media/01-dualwave-visual-v1-20261113-7b2f3a2499.mp4
 !media/02-explanatory-visual-v1-20261113-41f0b4e502.mp4
