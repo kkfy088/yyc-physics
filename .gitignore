@@ -4,4 +4,6 @@ timing.json
 sources/questions.json
 __pycache__/
 *.log
-media/
+media/*.mp4
+# Published review media
+!media/01-explanatory-visual-v1-20261113-9482e797aa.mp4
