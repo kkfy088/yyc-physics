@@ -4,3 +4,4 @@ timing.json
 sources/questions.json
 __pycache__/
 *.log
+media/
